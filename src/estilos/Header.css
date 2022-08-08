@@ -1,0 +1,21 @@
+*
+{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+header
+{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+header input
+{
+    outline: none;
+    padding:10px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
